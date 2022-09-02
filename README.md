@@ -1,2 +1,2 @@
 # php_practitioner
-Laracasts Begginer PHP/MVC Tutorial
+Laracasts' Begginer PHP/MVC Tutorial
