@@ -1,11 +1,9 @@
 <?php
 
-function isOldEnough($age) {
+function dd($data)
+{
 
-    if ($age > 21) {
-        return true;
-    } else {
-        return false;
-    }
-
+    echo '<pre>';
+    die(var_dump($data));
+    echo '</pre>';
 }
